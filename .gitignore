@@ -1,1 +1,15 @@
 config.*
+*.o
+*.a
+lib/x86_64/
+tcc
+tcc-doc.info
+tcc.1
+tcc.pod
+tests/hello
+tests/libtcc_test
+tests/tcclib.h
+tests/tcctest.gcc
+tests/test.out3
+tests/test.ref
+tests/tests2/fred.txt
